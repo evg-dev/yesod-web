@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="595827f4-cc6c-4295-bb62-3757126c742e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.dir-locals.el" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/yesod-web.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/DevelMain.hs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/devel.hs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/main.hs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/keter.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/models.persistentmodels" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/routes.yesodroutes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/settings.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/test-settings.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Application.hs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Foundation.hs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Handler/Comment.hs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Handler/Common.hs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Handler/Home.hs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Handler/Profile.hs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Import.hs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Import/NoFoundation.hs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Model.hs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Settings.hs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Settings/StaticFiles.hs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stack.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/default-layout-wrapper.hamlet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/default-layout.hamlet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/default-layout.lucius" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/homepage.hamlet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/homepage.julius" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/homepage.lucius" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/profile.hamlet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/Handler/CommentSpec.hs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/Handler/CommonSpec.hs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/Handler/HomeSpec.hs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/Handler/ProfileSpec.hs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/Spec.hs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/TestImport.hs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yesod-web.cabal" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="23ETA20wuxz9DHfTVWh8AcNUGdH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="595827f4-cc6c-4295-bb62-3757126c742e" name="Default Changelist" comment="" />
+      <created>1641298099190</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641298099190</updated>
+      <workItem from="1641298100733" duration="362000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3451" y="332" width="770" height="796" key="CommitChangelistDialog2" timestamp="1641298163731">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state x="3451" y="332" width="770" height="796" key="CommitChangelistDialog2/2560.0.2560.1440/0.25.2560.1415@2560.0.2560.1440" timestamp="1641298163731" />
+  </component>
+</project>
